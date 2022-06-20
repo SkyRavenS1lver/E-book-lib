@@ -1,0 +1,41 @@
+body{
+    background:linear-gradient(to left, #852FF2 0%, #5206C0 100%);
+    color: azure;
+    font-size: 2rem;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.topper{
+    width: 100%;
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("asset/bgtop.jfif");
+    padding-top: 25rem;
+    padding-bottom: 20rem;
+    border-radius: 0 0 10px 10px;
+}
+.topper h2{
+    font-size: 5rem;
+}
+.filler{
+    padding-top: 25rem;
+    border-radius: 10px 10px 10px 10px;
+    background-color: darkblue;}
+
+.filler-text{
+    width: 100rem;
+    font-size: 10rem;}
+.footer-bg{
+    background-color: black;
+}
+.p-footer{
+    margin-bottom: 0;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.spacing{
+    margin-top: 10rem;
+    margin-bottom: 30rem;
+}
+
+

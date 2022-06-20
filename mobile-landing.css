@@ -1,0 +1,17 @@
+@media screen and (min-width: 391px){#person{margin-left: 2rem;}}
+@media screen and (max-width: 390px){
+    .filler-text{width: 350px; font-size: 10px;}
+    body{font-size: 10px;}
+    h2{font-size: 15px;}
+    #filler-title h2{font-size: 0;}
+    #pemilihanNav{float: left;}
+    #pemilihanNav .filler-text{float: left;}
+    #pemilihanNav .filler-text h2{font-size: 0px;}
+    #person{margin-left: 82px !important;}
+    #admin{margin-left: 82px !important;}
+    img{width: 500px;}
+    .spacing{margin-top: 0px;}
+    .topper h2{
+        font-size: 3rem;
+    }
+}
